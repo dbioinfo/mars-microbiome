@@ -1,6 +1,7 @@
 library(tidyverse)
 library(httr2)
 library(jsonlite)
+library(rentrez)
 
 setwd("~/WorkForaging/Teaching/iResearch/Summer2026/zaiden")
 
