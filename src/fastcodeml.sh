@@ -1,0 +1,1 @@
+./home/dylan/tools/fastcodeml/fastcodeml/build/fast -nt 8 --treeinfo -o data/codeml/fastcodeml_results.txt data/codeml/COG3253/COG3253.nucaln.labelled.paml  data/codeml/COG3253/COG3253.cld_labelled.nwk 
